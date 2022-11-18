@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react.git/static/css/main.c6153cc6.css",
-    "main.js": "/react.git/static/js/main.2aba7f63.js",
-    "static/js/787.62ac06b3.chunk.js": "/react.git/static/js/787.62ac06b3.chunk.js",
-    "static/media/adidasbat.jpg": "/react.git/static/media/adidasbat.a95b1653fe4d136d4bfd.jpg",
-    "static/media/ftraining.jpg": "/react.git/static/media/ftraining.a7585efc1bc492d13f6b.jpg",
-    "static/media/adidasrunning.jpg": "/react.git/static/media/adidasrunning.3a79dd38a94e66ccff55.jpg",
-    "static/media/arunning.jpg": "/react.git/static/media/arunning.326e4066fb5185eef9d8.jpg",
-    "static/media/fjersey.jpg": "/react.git/static/media/fjersey.5ad63e5c8f28579c48f1.jpg",
-    "static/media/adidasbag.webp": "/react.git/static/media/adidasbag.7190f49d41391ab70656.webp",
-    "static/media/adidasoutdoor.jpg": "/react.git/static/media/adidasoutdoor.40692ab56c5290e63fe2.jpg",
-    "static/media/arunningacc.jpg": "/react.git/static/media/arunningacc.c3e32f50da5a711d5529.jpg",
-    "static/media/adidastshirt.webp": "/react.git/static/media/adidastshirt.2e8a2a5d542987286507.webp",
-    "static/media/adidas logo.webp": "/react.git/static/media/adidas logo.dd30108d111ae8f9023f.webp",
-    "index.html": "/react.git/index.html",
-    "main.c6153cc6.css.map": "/react.git/static/css/main.c6153cc6.css.map",
-    "main.2aba7f63.js.map": "/react.git/static/js/main.2aba7f63.js.map",
-    "787.62ac06b3.chunk.js.map": "/react.git/static/js/787.62ac06b3.chunk.js.map"
+    "main.css": "/srnave/react.git/static/css/main.c6153cc6.css",
+    "main.js": "/srnave/react.git/static/js/main.2ff67610.js",
+    "static/js/787.62ac06b3.chunk.js": "/srnave/react.git/static/js/787.62ac06b3.chunk.js",
+    "static/media/adidasbat.jpg": "/srnave/react.git/static/media/adidasbat.a95b1653fe4d136d4bfd.jpg",
+    "static/media/ftraining.jpg": "/srnave/react.git/static/media/ftraining.a7585efc1bc492d13f6b.jpg",
+    "static/media/adidasrunning.jpg": "/srnave/react.git/static/media/adidasrunning.3a79dd38a94e66ccff55.jpg",
+    "static/media/arunning.jpg": "/srnave/react.git/static/media/arunning.326e4066fb5185eef9d8.jpg",
+    "static/media/fjersey.jpg": "/srnave/react.git/static/media/fjersey.5ad63e5c8f28579c48f1.jpg",
+    "static/media/adidasbag.webp": "/srnave/react.git/static/media/adidasbag.7190f49d41391ab70656.webp",
+    "static/media/adidasoutdoor.jpg": "/srnave/react.git/static/media/adidasoutdoor.40692ab56c5290e63fe2.jpg",
+    "static/media/arunningacc.jpg": "/srnave/react.git/static/media/arunningacc.c3e32f50da5a711d5529.jpg",
+    "static/media/adidastshirt.webp": "/srnave/react.git/static/media/adidastshirt.2e8a2a5d542987286507.webp",
+    "static/media/adidas logo.webp": "/srnave/react.git/static/media/adidas logo.dd30108d111ae8f9023f.webp",
+    "index.html": "/srnave/react.git/index.html",
+    "main.c6153cc6.css.map": "/srnave/react.git/static/css/main.c6153cc6.css.map",
+    "main.2ff67610.js.map": "/srnave/react.git/static/js/main.2ff67610.js.map",
+    "787.62ac06b3.chunk.js.map": "/srnave/react.git/static/js/787.62ac06b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6153cc6.css",
-    "static/js/main.2aba7f63.js"
+    "static/js/main.2ff67610.js"
   ]
 }
